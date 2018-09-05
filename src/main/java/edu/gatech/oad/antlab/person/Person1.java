@@ -31,6 +31,7 @@ public class Person1 {
 	 */
 	private String calc(String input) {
 	  //Person 1 put your implementation here
+	  return input[2:] + input[0:2];
 	}
 	
 	/**
@@ -38,7 +39,7 @@ public class Person1 {
 	 * that varies with an input string
 	 *
 	 * @param input the varying string
-	 * @return the string representing the 
+	 * @return the string representing the
 	 *         object
 	 */
 	public String toString(String input) {
