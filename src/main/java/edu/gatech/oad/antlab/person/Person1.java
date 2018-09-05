@@ -31,7 +31,6 @@ public class Person1 {
 	 */
 	private String calc(String input) {
 	  //Person 1 put your implementation here
-	  return input[2:] + input[0:2];
 	}
 	
 	/**
