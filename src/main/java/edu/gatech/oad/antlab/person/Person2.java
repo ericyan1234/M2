@@ -5,7 +5,7 @@ package edu.gatech.oad.antlab.person;
  *  returns their name and a
  *  modified string
  *
- * @author Peter Han
+ * @author Peter Han 
  * @version 1.1
  */
 
